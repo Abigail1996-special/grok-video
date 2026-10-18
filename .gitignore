@@ -1,0 +1,11 @@
+# 임시 파일
+*.tmp
+*.log
+.DS_Store
+
+# 환경 파일
+.env
+.env.local
+
+# 생성 중간 파일 (필요 시 제외)
+# projects/*/temp/
